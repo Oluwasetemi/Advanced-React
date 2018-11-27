@@ -1,6 +1,8 @@
+import Items from '../components/Items';
+
 const Home = props => (
   <div>
-    <h1>Welcome to Nextjs</h1>
+    <Items />
   </div>
 );
 
